@@ -1,0 +1,1 @@
+This is a frontend project to understand the parallex effect in web pages
